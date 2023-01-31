@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Product",
+        "description": "decription",
+        "price": 100,
+        "thumbnail": "thumbnail",
+        "code": 62,
+        "stock": 15,
+        "id": 42
+    },
+    {
+        "title": "esesse",
+        "description": "decription",
+        "price": 100,
+        "thumbnail": "thumbnail",
+        "code": 14,
+        "stock": 15,
+        "category": "caca",
+        "status": true,
+        "id": 2
+    },
+    {
+        "title": "cacaPrueba",
+        "description": "decription",
+        "price": 100,
+        "thumbnail": "thumbnail",
+        "code": 87,
+        "stock": 12,
+        "category": "celulares",
+        "status": true,
+        "id": 3
+    }
+]
